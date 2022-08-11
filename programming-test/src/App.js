@@ -1,9 +1,8 @@
-
 import Home from "../src/views/Home";
 
 
 const App = () => {
-  return <Home/>;
+    return <Home / > ;
 };
 
 export default App;

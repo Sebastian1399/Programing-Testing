@@ -43,34 +43,82 @@ export const sliderItems = [
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://img.freepik.com/psd-gratis/mano-sosteniendo-maqueta-telefono-inteligente_23-2148963459.jpg?t=st=1660239308~exp=1660239908~hmac=6aa73f854c4986cdbe777166a428a2e8dde0a1fd843c8de83f7b994e5f81158c",
+      marca: "Samsung",
+      modelo: "Galaxy Z Fold4",
+      precio:"$20,099",
+      pantalla: "Pantalla Retina HD de 4.7 pulgadas con True Tone",
+      camara:"Sistema de cámara gran angular de 12 MP, con modo Retrato, Iluminación de Retratos, HDR Inteligente y video 4K de hasta 60 cps",
+      chip:"Chip A15 Bionic; Nuevo CPU de 6 núcleos con 2 núcleos de rendimiento y 4 de eficiencia; Nuevo GPU de 4 núcleos; Nuevo Neural Engine de 16 núcleos"
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://img.freepik.com/vector-gratis/dispositivo-telefono-inteligente-realista_52683-29765.jpg",
+      marca: "Apple",
+      modelo: "iPhone 13",
+      precio:"$20,099",
+      pantalla: "Pantalla Retina HD de 4.7 pulgadas con True Tone",
+      camara:"Sistema de cámara gran angular de 12 MP, con modo Retrato, Iluminación de Retratos, HDR Inteligente y video 4K de hasta 60 cps",
+      chip:"Chip A15 Bionic; Nuevo CPU de 6 núcleos con 2 núcleos de rendimiento y 4 de eficiencia; Nuevo GPU de 4 núcleos; Nuevo Neural Engine de 16 núcleos"
     },
     {
       id:3,
-      img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+      img:"https://img.freepik.com/psd-gratis/telefono-copa-mundo_187299-11046.jpg",
+      marca: "Samsung",
+      modelo: "Galaxy A53 5G",
+      precio:"$23,099",
+      pantalla: "Pantalla Retina HD de 4.7 pulgadas con True Tone",
+      camara:"Sistema de cámara gran angular de 12 MP, con modo Retrato, Iluminación de Retratos, HDR Inteligente y video 4K de hasta 60 cps",
+      chip:"Chip A15 Bionic; Nuevo CPU de 6 núcleos con 2 núcleos de rendimiento y 4 de eficiencia; Nuevo GPU de 4 núcleos; Nuevo Neural Engine de 16 núcleos"
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://img.freepik.com/fotos-premium/aplicacion-clima-movil_78895-1521.jpg",
+      marca: "Alcatel",
+      modelo: "Alcatel 1C.",
+      precio:"$6,099",
+      pantalla: "Pantalla Retina HD de 4.7 pulgadas con True Tone",
+      camara:"Sistema de cámara gran angular de 12 MP, con modo Retrato, Iluminación de Retratos, HDR Inteligente y video 4K de hasta 60 cps",
+      chip:"Chip A15 Bionic; Nuevo CPU de 6 núcleos con 2 núcleos de rendimiento y 4 de eficiencia; Nuevo GPU de 4 núcleos; Nuevo Neural Engine de 16 núcleos"
     },
     {
       id:5,
-      img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+      img:"https://img.freepik.com/vector-gratis/telefono-diseno-plano-diferentes-perspectivas_52683-52676.jpg",
+      marca: "Apple",
+      modelo: "iPhone SE",
+      precio:"$21,000",
+      pantalla: "Pantalla Retina HD de 4.7 pulgadas con True Tone",
+      camara:"Sistema de cámara gran angular de 12 MP, con modo Retrato, Iluminación de Retratos, HDR Inteligente y video 4K de hasta 60 cps",
+      chip:"Chip A15 Bionic; Nuevo CPU de 6 núcleos con 2 núcleos de rendimiento y 4 de eficiencia; Nuevo GPU de 4 núcleos; Nuevo Neural Engine de 16 núcleos"
     },
     {
       id:6,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+      img:"https://img.freepik.com/foto-gratis/telefono-marmol-oro-rosa-pantalla-blanco-sobre-fondo-melocoton_53876-153477.jpg",
+      marca: "Apple",
+      modelo: "iPhone 13 Pro",
+      precio:"$24,099",
+      pantalla: "Pantalla Retina HD de 4.7 pulgadas con True Tone",
+      camara:"Sistema de cámara gran angular de 12 MP, con modo Retrato, Iluminación de Retratos, HDR Inteligente y video 4K de hasta 60 cps",
+      chip:"Chip A15 Bionic; Nuevo CPU de 6 núcleos con 2 núcleos de rendimiento y 4 de eficiencia; Nuevo GPU de 4 núcleos; Nuevo Neural Engine de 16 núcleos"
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://img.freepik.com/fotos-premium/telefono-pantalla-arcoiris_670147-3949.jpg",
+      marca: "Huwawei",
+      modelo: "P30",
+      precio:"$24,099",
+      pantalla: "Pantalla Retina HD de 4.7 pulgadas con True Tone",
+      camara:"Sistema de cámara gran angular de 12 MP, con modo Retrato, Iluminación de Retratos, HDR Inteligente y video 4K de hasta 60 cps",
+      chip:"Chip A15 Bionic; Nuevo CPU de 6 núcleos con 2 núcleos de rendimiento y 4 de eficiencia; Nuevo GPU de 4 núcleos; Nuevo Neural Engine de 16 núcleos"
     },
     {
       id:8,
-      img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+      img:"https://img.freepik.com/psd-premium/maqueta-pantalla-aplicacion-dispositivos-telefono-inteligente-flotante_441065-1.jpg",
+      marca: "Apple",
+      modelo: "iPhone 13 Pro Max",
+      precio:"$28,999",
+      pantalla: "Pantalla Retina HD de 4.7 pulgadas con True Tone",
+      camara:"Sistema de cámara gran angular de 12 MP, con modo Retrato, Iluminación de Retratos, HDR Inteligente y video 4K de hasta 60 cps",
+      chip:"Chip A15 Bionic; Nuevo CPU de 6 núcleos con 2 núcleos de rendimiento y 4 de eficiencia; Nuevo GPU de 4 núcleos; Nuevo Neural Engine de 16 núcleos"
     },
   ]
